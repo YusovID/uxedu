@@ -1,6 +1,3 @@
-# Все, я сдаюсь, я сделал все, что мог... (CI)
-
-
 # 📚 UxEdu: Scalable API for Modern Education Systems
 UxEdu is a modular, distributed API designed to support a wide range of educational platforms. It provides ready-to-use templates, yet remains fully customizable to meet specific institutional or personal needs.
 
